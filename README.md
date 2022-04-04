@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms
-## This repository contains all my code and files for the CS225 - Data-Structures-and-Algorithms class
+### This repository contains all my code and files for the CS225 - Data-Structures-and-Algorithms class
 
-## DO NOT COPY. Only for reference
+### DO NOT COPY. Only for reference
 
 ## mp_lists:
 ### Manipulating linked memory by writing functions to modify linked lists
